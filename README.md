@@ -7,6 +7,11 @@
 **Tecnologias:** HTML5, CSS3, JavaScript e Web Audio API  
 **Execução:** navegador moderno; instalação opcional; funcionamento offline após o primeiro carregamento bem-sucedido e armazenamento do cache.
 
+
+![Audiometria](audiometria.png)
+
+
+
 ---
 
 ## 1. Apresentação
